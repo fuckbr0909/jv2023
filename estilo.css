@@ -1,0 +1,37 @@
+.menu{
+    position: absolute;
+width: 1440px;
+height: 46px;
+left: 0px;
+top: 3px;
+
+background: #FF0000;
+}
+.cabec{
+    position: absolute;
+width: 1440px;
+height: 258px;
+left: 0px;
+top: 48px;
+
+background: rgba(255, 0, 0, 0.91);
+}
+.cabec-text
+.corpo{
+    position: absolute;
+width: 1440px;
+height: 654px;
+left: 0px;
+top: 304px;
+
+background: linear-gradient(180deg, rgba(255, 0, 0, 0.91) 0%, rgba(255, 0, 0, 0) 100%);
+}
+.mensagem{
+    position: absolute;
+width: 1440px;
+height: 78px;
+left: 0px;
+top: 952px;
+
+background: linear-gradient(180deg, rgba(255, 0, 0, 0) 47.92%, rgba(255, 0, 0, 0.62) 100%);
+}
