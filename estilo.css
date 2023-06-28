@@ -7,6 +7,17 @@ top: 3px;
 
 background: #FF0000;
 }
+.menu-texto{
+    display: flex;
+width: 134px;
+height: 19px;
+transform: rotate(-0.973deg);
+flex-direction: column;
+flex-shrink: 0;
+color: #FFF;
+font-size: 16px;
+font-family: Inter;
+}
 .cabec{
     position: absolute;
 width: 1440px;
